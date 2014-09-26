@@ -16,7 +16,7 @@
 	{
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #575757;
 		font-weight: 300;
 	}
 
@@ -182,7 +182,7 @@
 			form select:focus,
 			form textarea:focus
 			{
-				background: #fafafa;
+				background: #BDE6F7;
 				box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.05), 0px 1px 0px 0px rgba(255,255,255,0.025), inset 0px 0px 2px 1px #43bff0;
 			}
 
@@ -606,7 +606,7 @@
 		.wrapper.style1
 		{
 			background-image: none;
-			background-color: #fff;
+			background-color: #F6FDFD;
 		}
 		
 		.wrapper.style2
